@@ -9,6 +9,3 @@ module.exports = {
         return bcrypt.compareSync(password, hash)
     }
 }
-
-
-// bcrypt
